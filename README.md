@@ -2,7 +2,13 @@
 
 A programmer for the Yaesu FTM-510D. Reads the backup the radio writes on its
 microSD card (or the radio itself over the SCU-20 cable), lets you edit it in
-your browser, writes a new file. Reading is free; writing needs a licence key.
+your browser, writes a new file.
+
+**Free, with every feature.** Reading, editing, writing a file and sending it
+to the radio all work without any key. Nothing is held back until you pay: not
+being able to see what a program does before buying it is what this one was
+written against. A supporter key is a voluntary thank-you, issued for your
+callsign; entering it fills that callsign into the radio's own callsign fields.
 
 Install:
 
